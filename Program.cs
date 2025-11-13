@@ -11,7 +11,7 @@ namespace SpielcharakterMVC
             Magier zauberer = new Magier("Gandalf", 100, "Stoff", 2, 100, 3);
             Krieger kaempfer = new Krieger("Olaf", 100, "Platte", 5, 100);
             // Methodenaufrufe
-            held.Action();
+
             zauberer.Action();
             kaempfer.Action();
 

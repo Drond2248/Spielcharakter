@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tn\\Desktop\\C-sharp-\\Spielcharakter\\Spielcharakter.csproj": {}
+    "C:\\Users\\tn\\Desktop\\Spielcharakter\\Spielcharakter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tn\\Desktop\\C-sharp-\\Spielcharakter\\Spielcharakter.csproj": {
+    "C:\\Users\\tn\\Desktop\\Spielcharakter\\Spielcharakter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tn\\Desktop\\C-sharp-\\Spielcharakter\\Spielcharakter.csproj",
+        "projectUniqueName": "C:\\Users\\tn\\Desktop\\Spielcharakter\\Spielcharakter.csproj",
         "projectName": "Spielcharakter",
-        "projectPath": "C:\\Users\\tn\\Desktop\\C-sharp-\\Spielcharakter\\Spielcharakter.csproj",
+        "projectPath": "C:\\Users\\tn\\Desktop\\Spielcharakter\\Spielcharakter.csproj",
         "packagesPath": "C:\\Users\\tn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tn\\Desktop\\C-sharp-\\Spielcharakter\\obj\\",
+        "outputPath": "C:\\Users\\tn\\Desktop\\Spielcharakter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
