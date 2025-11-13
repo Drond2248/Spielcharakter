@@ -19,7 +19,6 @@ namespace SpielcharakterMVC
             Lebenspunkte = lebenspunkte; 
             Ruestung = ruestung; 
             Heiltraenke = heiltraenke;
-            Hallo= hallo;
         }
         public virtual void Action()
         {
